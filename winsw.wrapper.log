@@ -1,0 +1,37 @@
+2025-01-10T19:27:32.991 INFO  console - Installing service 'Mexdy_Apcreations (Mexdy_Apcreations)'...
+2025-01-10T19:27:33.087 INFO  console - Service 'Mexdy_Apcreations (Mexdy_Apcreations)' was installed successfully.
+2025-01-10T19:27:43.500 DEBUG console - Starting WinSW in service mode.
+2025-01-10T19:27:43.564 INFO  console - Service 'Mexdy_Apcreations (Mexdy_Apcreations)' was refreshed successfully.
+2025-01-10T19:27:43.592 INFO  service - Starting node
+2025-01-10T19:27:43.666 INFO  service - Started process node (11472).
+2025-01-10T19:27:43.719 INFO  service - Service started successfully.
+2025-01-15T12:08:16.695 DEBUG console - Starting WinSW in service mode.
+2025-01-15T12:08:16.855 INFO  console - Service 'Mexdy_Apcreations (Mexdy_Apcreations)' was refreshed successfully.
+2025-01-15T12:08:16.987 INFO  service - Starting node
+2025-01-15T12:08:17.153 INFO  service - Started process node (5512).
+2025-01-15T12:08:17.246 INFO  service - Service started successfully.
+2025-01-15T14:58:07.990 DEBUG console - Starting WinSW in service mode.
+2025-01-15T14:58:08.152 INFO  console - Service 'Mexdy_Apcreations (Mexdy_Apcreations)' was refreshed successfully.
+2025-01-15T14:58:08.232 INFO  service - Starting node
+2025-01-15T14:58:08.370 INFO  service - Started process node (5392).
+2025-01-15T14:58:08.463 INFO  service - Service started successfully.
+2025-01-15T15:07:46.603 INFO  service - Stopping Mexdy_Apcreations
+2025-01-15T15:07:46.609 DEBUG service - ProcessKill 5392
+2025-01-15T15:07:46.631 INFO  service - Child process 'node (5392)' canceled with code -1073741510.
+2025-01-15T15:07:46.649 INFO  service - Finished Mexdy_Apcreations
+2025-01-15T15:07:46.650 INFO  service - Service stopped successfully.
+2025-01-15T15:07:48.473 DEBUG console - Starting WinSW in service mode.
+2025-01-15T15:07:48.535 INFO  console - Service 'Mexdy_Apcreations (Mexdy_Apcreations)' was refreshed successfully.
+2025-01-15T15:07:48.564 INFO  service - Starting node
+2025-01-15T15:07:48.637 INFO  service - Started process node (4980).
+2025-01-15T15:07:48.688 INFO  service - Service started successfully.
+2025-01-15T20:35:55.875 INFO  service - Stopping Mexdy_Apcreations
+2025-01-15T20:35:55.892 DEBUG service - ProcessKill 4980
+2025-01-15T20:35:56.049 INFO  service - Child process 'node (4980)' canceled with code -1073741510.
+2025-01-15T20:35:56.073 INFO  service - Finished Mexdy_Apcreations
+2025-01-15T20:35:56.073 INFO  service - Service was shut down successfully.
+2025-01-15T20:36:30.243 DEBUG console - Starting WinSW in service mode.
+2025-01-15T20:36:30.423 INFO  console - Service 'Mexdy_Apcreations (Mexdy_Apcreations)' was refreshed successfully.
+2025-01-15T20:36:30.473 INFO  service - Starting node
+2025-01-15T20:36:30.607 INFO  service - Started process node (4460).
+2025-01-15T20:36:30.701 INFO  service - Service started successfully.

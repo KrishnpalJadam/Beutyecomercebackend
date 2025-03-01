@@ -1,0 +1,9 @@
+<service>
+  <id>Mexdy_Apcreations</id>
+  <name>Mexdy_Apcreations</name>
+  <description>This service runs Mexdy_Apcreations Backend.</description>
+  <env name="Mexdy_Apcreations" value="%BASE%"/>
+  <executable>node</executable>
+  <arguments>index.js</arguments>
+  <log mode="roll"></log>
+</service>

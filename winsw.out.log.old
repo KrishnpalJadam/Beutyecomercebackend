@@ -1,0 +1,1338 @@
+SERVER IS RUNNING on http://localhost:4500
+MongoDB Connected with 127.0.0.1
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{ page: '1', price: { gte: '0', lte: '50000' }, ratings: { gte: '0' } }
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: '0' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"0"}}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{
+  page: '1',
+  price: { gte: '0', lte: '50000' },
+  ratings: { gte: 'undefined' }
+}
+{ price: { gte: '0', lte: '50000' }, ratings: { gte: 'undefined' } }
+{"price":{"$gte":"0","$lte":"50000"},"ratings":{"$gte":"undefined"}}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
