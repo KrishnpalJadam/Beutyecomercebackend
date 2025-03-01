@@ -10,8 +10,16 @@ const path = require("path")
 
 
 dotenv.config({ path: "backend/config/config.env" });
+
+// CORS Configuration
+const corsOptions = {
+    origin: "http://localhost:4500", // Apne frontend ka exact URL dalen
+    credentials: true, // Cookies aur authorization headers allow karne ke liye
+    optionsSuccessStatus: 200,
+};
 // uu
-app.use(cors())
+//app.use(cors())
+app.use(cors(corsOptions));
 app.use(express.json());
 app.use(cookieParser());
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -38,6 +46,22 @@ app.get("/get", (req, res) => {
 //     credentials: true,
 //     optionSuccessStatus: 200
 // }
+
+
+
+// Custom CORS Middleware for Handling Preflight Requests
+app.use((req, res, next) => {
+    res.header("Access-Control-Allow-Origin", "http://localhost:4500");
+    res.header("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE, OPTIONS");
+    res.header("Access-Control-Allow-Headers", "Content-Type, Authorization");
+    res.header("Access-Control-Allow-Credentials", "true");
+    
+    if (req.method === "OPTIONS") {
+        return res.sendStatus(200);
+    }
+
+    next();
+});
 
 // app.use(cors(corsOptions));
 // All Routes Imported
